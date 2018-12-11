@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Includes Smoke Tests and Snapshot Tests
+This fork adds some test examples to the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
